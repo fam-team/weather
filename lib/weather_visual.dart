@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 
 // -----------------------------------------------------------------------------
-// 5. Custom Weather Visuals
+// 5. Cust Weather Visuals
 // -----------------------------------------------------------------------------
 
 class WeatherVisual extends StatelessWidget {

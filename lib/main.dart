@@ -209,7 +209,7 @@ class _WeatherHomePageState extends State<WeatherHomePage> {
                   const SizedBox(height: 20),
                   // Location Header (Mocked location name as API matches lat/long for simplified example)
                   Text(
-                    'New York',
+                    'New York City',
                     style: GoogleFonts.outfit(
                       fontSize: 18,
                       fontWeight: FontWeight.w500,
